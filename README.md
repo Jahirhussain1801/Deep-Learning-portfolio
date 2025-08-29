@@ -15,9 +15,6 @@ I update this repository regularly to demonstrate consistency and growth in appl
    - Implemented classic LeNet-5 CNN  
    - Achieved high accuracy on digit classification  
 
-3. **InceptionV3 Transfer Learning**  
-   - Used pre-trained InceptionV3 on custom dataset  
-   - Demonstrated feature extraction & fine-tuning  
 
 ---
 
