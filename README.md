@@ -14,7 +14,9 @@ I update this repository regularly to demonstrate consistency and growth in appl
 2. **LeNet on MNIST**  
    - Implemented classic LeNet-5 CNN  
    - Achieved high accuracy on digit classification  
-
+3.**AlexNet**
+   -
+   -
 
 ---
 
